@@ -6,7 +6,7 @@
 // declared namespaces for print
 
 using namespace std;
-class TCPClient
+class TCPClient 
 {
 private:
     WSADATA WSAData;
